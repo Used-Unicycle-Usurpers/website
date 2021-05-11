@@ -758,6 +758,19 @@ section.lazy-placeholder:after {
   color: #ffffff;
   text-align: center;
 }
+.cid-sx3LloLEwF {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #b19ff9;
+}
+.cid-sx3LloLEwF .mbr-text,
+.cid-sx3LloLEwF blockquote {
+  color: #767676;
+}
+.cid-sx3LloLEwF .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-svqjoJS9Vc {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -768,6 +781,19 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-svqjoJS9Vc .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-sx3O8OGq3B {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #b19ff9;
+}
+.cid-sx3O8OGq3B .mbr-text,
+.cid-sx3O8OGq3B blockquote {
+  color: #767676;
+}
+.cid-sx3O8OGq3B .mbr-text {
   color: #ffffff;
   text-align: center;
 }
@@ -803,6 +829,146 @@ section.lazy-placeholder:after {
 }
 .cid-stPVvhqgtR H1 {
   text-align: center;
+  color: #ffffff;
+}
+.cid-sx3HYpzdiT {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #b19ff9;
+}
+.cid-sx3HYpzdiT .mbr-text {
+  color: #ffffff;
+}
+.cid-sx3IxOzurJ {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #b19ff9;
+}
+.cid-sx3IxOzurJ .mbr-text,
+.cid-sx3IxOzurJ blockquote {
+  color: #767676;
+}
+.cid-sx3IxOzurJ .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-sx3J7MbM5O {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #b19ff9;
+}
+.cid-sx3J7MbM5O .images-container.container-fluid {
+  padding: 0;
+}
+.cid-sx3J7MbM5O .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-sx3J7MbM5O .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+}
+.cid-sx3J7MbM5O .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-sx3J7MbM5O .media-container-row .img-item .img-caption {
+  background: #b19ff9;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-sx3J7MbM5O .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-sx3J7MbM5O .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-sx3J7MbM5O .img-item {
+    width: 100% !important;
+  }
+  .cid-sx3J7MbM5O .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
+}
+.cid-sx3J7MbM5O P {
+  color: #ffffff;
+}
+.cid-sx3Jl2p0RL {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #b19ff9;
+}
+.cid-sx3Jl2p0RL .mbr-text,
+.cid-sx3Jl2p0RL blockquote {
+  color: #767676;
+}
+.cid-sx3Jl2p0RL .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-sx3JGanEnx {
+  padding-top: 0px;
+  padding-bottom: 75px;
+  background: #b19ff9;
+}
+.cid-sx3JGanEnx .images-container.container-fluid {
+  padding: 0;
+}
+.cid-sx3JGanEnx .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-sx3JGanEnx .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+}
+.cid-sx3JGanEnx .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-sx3JGanEnx .media-container-row .img-item .img-caption {
+  background: #b19ff9;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-sx3JGanEnx .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-sx3JGanEnx .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-sx3JGanEnx .img-item {
+    width: 100% !important;
+  }
+  .cid-sx3JGanEnx .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
+}
+.cid-sx3JGanEnx P {
   color: #ffffff;
 }
 .cid-swsNfmhYyz {
